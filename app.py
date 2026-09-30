@@ -80,7 +80,7 @@ st.markdown(
 pages = [
     st.Page(
         "pages/home.py",       #把檔案路徑放進來
-        title="首頁",    #導覽列上面顯示的文字 
+        title="123",    #導覽列上面顯示的文字 
         icon="🏠"       #文字前面的小小icon
     ),
 
